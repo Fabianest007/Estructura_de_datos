@@ -1,0 +1,44 @@
+000395180lámpara de piso
+000395181computador de escritorio
+000395182radio
+000395190lavadora
+000395191telefono
+000395280lámpara de exterior
+000395281control remoto
+000395282camara de fotos
+000395283camara de video
+000395284microondas
+000395380refrigerador
+000395381estufa electrica
+000395382ventilador
+000395383parlantes
+000395440amplificador
+000395450televisor
+000395460monitor de pc
+000395461mouse
+000395462lámpara de mesa
+000395463impresora
+000395464teclado
+000395470portarretrato digital
+000395471pen drive
+000395480calefon electrico
+000395490consola de juego
+000395500fotocopiadora
+000395501efectos de luces laser
+000395502efectos de luces flahs
+000395510aire acondicionado
+000395520afeitadora electrica
+000395521depiladora electrica
+000395522secador de pelo
+000395523secadora
+000395640DVD player
+000396000soldadora de estaño
+000396001lámpara de emergencia
+000396002soldadora al arco
+000396003taladro
+000396004caladora de madera
+000396005linterna
+000396006cargador de pilas o baterias
+000396010juguera
+000396020lámpara de cielo
+000396030exprimidora

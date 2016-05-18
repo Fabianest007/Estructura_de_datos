@@ -1,0 +1,19 @@
+00039518IJuan Antonio Bautista         Arturo Prat Nº 305, 2º Piso, Las Condes, Santiago           983474229Lucio Perez
+00039519RAlirio Pedro Suarez Gonzalez  Serrano Nº 389, Edificio Conferencia, Of 705, Padre Hurtado 980464427Abel Gonzalez
+00039528RAlejandro Jimenez Gonzalez    Sucre 311, 4º Piso, Santiago                                953674825Pablo Abarca
+00039538IMarianela Cordero             Calle Portales Nº 767, Santiago                             920476222Jose Lopez
+00039544IMarcelo Camero Gonzalez       Regidor Muñoz Nº 392, esquina Los Carrera, San Miguel       963474229Luis Sanchez
+00039545ICarmelo de Luca               Av. Brasil Nº1265, 5º piso, Las Condes                      970474625Jose Lopez
+00039546RMaria Aurora Zambrano         Moneda Nº 723, Santiago                                     973577224Lucio Perez
+00039547ILuis Sosa                     Avenida Providencia Nº 729, Providencia                     940474669Abel Gonzalez
+00039548IJose Manuel Herrera           Plaza de los Héroes Nº 389, Padre Hurtado                   933574274Pablo Abarca
+00039549RLuis Manuel Villegas          Uno Oriente Nº 1547, Santiago                               950554279Lucio Perez
+00039550RGonzalo López Gaviria         Chacabuco 1005, Las Condes                                  943475264Abel Gonzalez
+00039551RHéctor Manuel Pineda          Caupolicán Nº 651, Vitacura                                 930475227Pablo Abarca
+00039552IMaria Victoria Arias Gómez    Yungay Nº 550, 3er piso, Pedro Aguirre Cerda                923555279Jose Lopez
+00039564ILuis Alfonso Escobar Trujillo Urmeneta Nº 509, Edificio IPS (ex INP), 3º piso, Santiago   910464724Luis Sanchez
+00039600ILida Patricia Giraldo Morales 12 de Octubre Nº 382, Las Condes                            987577229Pablo Abarca
+00039601RLuis Oliverio Cárdenas Moreno Avda. Independencia Nº 608, Padre Hurtado                   984454224Luis Sanchez
+00039602ILuis Mario Fernando Castro HerLos pelicanos 2578, depto 707, Huechuraba, Santiago         993556524Lucio Perez
+00039603IJulio Cesario Rodríguez MonsalAv. Primerisima 045, casa E, Lo Prado, Santiago             977474265Abel Gonzalez
+
